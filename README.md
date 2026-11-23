@@ -46,4 +46,4 @@ PowerShell scripting (parameters, error handling, `-WhatIf` support), Windows di
 
 ## Tested on
 
-[fill in after you run them, e.g. Windows 11 23H2, PowerShell 5.1]
+Windows 11 Pro (build 26200), Windows PowerShell 5.1
